@@ -888,12 +888,18 @@
                     <view key="view" contentMode="scaleToFill" id="NRg-RQ-xh0">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="State 1_ Default" translatesAutoresizingMaskIntoConstraints="NO" id="NbB-lu-EEA">
+                                <rect key="frame" x="20" y="97" width="374" height="389"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lng-XJ-0uB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1988" y="394"/>
+            <point key="canvasLocation" x="1986.9565217391305" y="393.75"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="CLy-NO-XZs">
@@ -920,6 +926,7 @@
         <image name="Icon Delete-2" width="24" height="24"/>
         <image name="Icon Delete-3" width="24" height="24"/>
         <image name="Image" width="820" height="820"/>
+        <image name="State 1_ Default" width="375" height="428"/>
         <image name="🍂" width="24" height="25"/>
         <image name="🍿" width="24" height="25"/>
         <image name="🎧" width="24" height="25"/>
